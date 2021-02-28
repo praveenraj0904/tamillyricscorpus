@@ -6,5 +6,5 @@
 # Dhivya Chinnappa and Praveenraj Dhandapani. 2021. Tamil lyrics corpus: Analysis and Experiments
 Dhivya Chinnappa - Thomson Reuters PraveenRaj Dhandapani - Intellect Design Arena Ltd
 
-# Contact: divya.infant@gmail.com,praveenraj0904@gmail.com
+# Contact: dhivya.infant@gmail.com,praveenraj0904@gmail.com
 The file Tamil_lyrics_v1.csv provides lyrics and related details
